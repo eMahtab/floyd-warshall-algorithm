@@ -11,6 +11,7 @@ for(int k = 0; k < N; k++)
     for(int j = 0; j < N; j++)
       matrix[i][j] = Math.min(matrix[i][j], matrix[i][k] + matrix[k][j]);
 ```
+4. At the end we will have the shorted path from any vertex i to any vertex j in the matrix.
 
 # References :
 https://www.youtube.com/watch?v=oNI0rf2P9gE
