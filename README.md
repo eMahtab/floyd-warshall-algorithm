@@ -15,3 +15,8 @@ for(int k = 0; k < N; k++)
 
 # References :
 https://www.youtube.com/watch?v=oNI0rf2P9gE
+
+# Problems :
+1. https://leetcode.com/problems/network-delay-time
+2. https://leetcode.com/problems/course-schedule-iv
+
